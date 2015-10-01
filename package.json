@@ -1,0 +1,14 @@
+{
+  "name": "magic_number",
+  "version": "1.0.0",
+  "description": "Find the magic number",
+  "main": "main.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha ./test"
+  },
+  "author": "hugues.deflaugergues@gmail.com",
+  "dependencies": {
+    "chai": "^3.3.0",
+    "mocha": "^2.3.3"
+  }
+}
